@@ -1,0 +1,53 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Front-End",
+      "description": "HTML , CSS , JavaScript , React.Js"
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Back-End",
+      "description": "Node Js"
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "Tools",
+      "description": "Git , GitHub"
+    },
+    {
+      "id": "4",
+      "src": "./img/feather-pen-1.png",
+      "title": "Languages",
+      "description": "C , C++"
+    }
+  ],
+
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/snakemania-img.png",
+      "title": "Snake Mania",
+      "description": "A Game app that allow users to play and they can get scores. ",
+      "link": "https://github.com/Nitesh220901/Snake-Game"
+    },
+    {
+      "id": "2",
+      "src": "./img/dev-img.png",
+      "title": "Dev Portfolio",
+      "description": "A portfolio website that shows the work of an individual .",
+      "link": "https://github.com/Nitesh220901/Dev-Portfolio"
+    },
+    {
+      "id": "3",
+      "src": "./img/news-img.png",
+      "title": "News App",
+      "description": "News App which gives the current news around the sports ,politics,etc",
+      "link": "https://github.com/Nitesh220901/News-App/tree/master"
+    }
+   
+  ]
+}
